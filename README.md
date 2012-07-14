@@ -7,6 +7,12 @@ My bag of shell scripts.
 Briefings on scripts
 --------------------
 
+* Dropbox
+
+    * Dropbox System Shutdown Script
+    
+> Shutdowns your system as soon as Dropbox finish sync
+    
 * WordPress
     
     * WordPress Respawn Script
